@@ -1,0 +1,2 @@
+#!/bin/bash
+user="$(id -n -u) | echo "hello : $user"

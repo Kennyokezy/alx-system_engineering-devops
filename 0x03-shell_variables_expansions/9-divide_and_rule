@@ -1,2 +1,2 @@
 #!/bin/bash
-POWER="24" DIVIDE="4" | echo "$((POWER/DIVIDE)) /n
+POWER="24" | DIVIDE="4" | echo "$((POWER/DIVIDE)) "/n"
